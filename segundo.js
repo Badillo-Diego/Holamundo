@@ -1,1 +1,1 @@
-console.log("Esta es la segunda parte del trabajo");
+console.log("Esta tambien cambio para bien >:3");
